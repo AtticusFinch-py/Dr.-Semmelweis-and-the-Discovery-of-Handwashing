@@ -37,7 +37,7 @@ The project is structured as follows:
 
 ## Usage
 
-To run the analysis, make sure you have the required dependencies installed. You can use the provided Jupyter Notebook (`Semmelweis_Handwashing_Project.ipynb`) to execute the code step by step.
+To run the analysis, make sure you have the required dependencies installed. You can use the provided Jupyter Notebook (`notebook.ipynb`) to execute the code step by step.
 
 ## Conclusion
 
